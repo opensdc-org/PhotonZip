@@ -340,7 +340,8 @@ bytes          concatenated chunk payloads
 
 ## 🧾 Citation
 
-- [MANS](https://doi.org/10.1145/3712285.3759825)
+- [PhotonZip](https://arxiv.org/abs/2611.04138) — NPC '26
+- [MANS](https://doi.org/10.1145/3712285.3759825) — SC '25
 
 ## 🕰️ History
 
